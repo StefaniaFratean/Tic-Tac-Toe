@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1609958771 source:c:\users\stefania\documents\info stuff\x&0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"playerVScomputer.h"
+	"twoPlayersVersion.h"
+
+1609958805 c:\users\stefania\documents\info stuff\x&0\menu.h
+	<stdlib.h>
+	<stdio.h>
+
+1612012353 source:c:\users\stefania\documents\info stuff\x&0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"twoPlayersVersion.h"
+	"playerVScomputer.h"
+
+1609958869 c:\users\stefania\documents\info stuff\x&0\playervscomputer.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1609958868 c:\users\stefania\documents\info stuff\x&0\twoplayersversion.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1609959022 source:c:\users\stefania\documents\info stuff\x&0\twoplayersversion.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"twoPlayersVersion.h"
+
+1612015275 source:c:\users\stefania\documents\info stuff\x&0\playervscomputer.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"playerVScomputer.h"
+	"twoPlayersVersion.h"
+
+1609958901 source:c:\users\stefania\documents\info stuff\x&0\computerschecks.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"computersChecks.h"
+	"playerVScomputer.h"
+
+1609958909 c:\users\stefania\documents\info stuff\x&0\computerschecks.h
+	<stdio.h>
+	<stdlib.h>
+
+1609962502 source:e:\facultate stefania\anul1\sem i\cp\x&0\computerschecks.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"computersChecks.h"
+	"playerVScomputer.h"
+
+1609962510 e:\facultate stefania\anul1\sem i\cp\x&0\computerschecks.h
+	<stdio.h>
+	<stdlib.h>
+
+1609962470 e:\facultate stefania\anul1\sem i\cp\x&0\playervscomputer.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1609962372 source:e:\facultate stefania\anul1\sem i\cp\x&0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"playerVScomputer.h"
+	"twoPlayersVersion.h"
+
+1609962406 e:\facultate stefania\anul1\sem i\cp\x&0\menu.h
+	<stdlib.h>
+	<stdio.h>
+
+1609962470 e:\facultate stefania\anul1\sem i\cp\x&0\twoplayersversion.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1612015954 source:e:\facultate stefania\anul1\sem i\cp\x&0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"twoPlayersVersion.h"
+	"playerVScomputer.h"
+
+1612018876 source:e:\facultate stefania\anul1\sem i\cp\x&0\playervscomputer.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"playerVScomputer.h"
+	"twoPlayersVersion.h"
+
+1609962624 source:e:\facultate stefania\anul1\sem i\cp\x&0\twoplayersversion.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"twoPlayersVersion.h"
+
